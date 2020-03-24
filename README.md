@@ -1,5 +1,5 @@
 # Pagination
-VGG Internship Assignment on Pagination 
+VGG Internship Assignment on Pagination with vanilla JS
 
 
 **Task**
@@ -11,3 +11,5 @@ https://jsonplaceholder.typicode.com/photos
 * Add a Previous and Next Button below the Grid that suggest the pagination Feature
 * These buttons should call the api and update the content
 * The page should render 10 pictures per page together with the picture title
+
+![alt text](https://i.ibb.co/FWpwjjG/pagination.png)
