@@ -1,5 +1,5 @@
 # Pagination
-VGG Internship Assignment on Pagination with vanilla JS
+## VGG Internship Assignment on Pagination with vanilla JS
 
 
 **Task**
