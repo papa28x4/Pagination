@@ -1,8 +1,7 @@
-# Pagination
-## VGG Internship Assignment on Pagination with vanilla JS
+# Pagination with vanilla JS
 
 
-**Task**
+**### Task**
 
 Use the Json PlaceHolder Photos API
 https://jsonplaceholder.typicode.com/photos
