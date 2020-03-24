@@ -1,4 +1,4 @@
-# Implementing Pagination with vanilla JS
+# Implementing Pagination with Vanilla JS
 
 
 ## **Task**
